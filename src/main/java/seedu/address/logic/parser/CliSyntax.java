@@ -14,5 +14,4 @@ public class CliSyntax {
     public static final Prefix PREFIX_REMARK = new Prefix("r/");
 
 
-
 }
